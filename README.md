@@ -28,7 +28,8 @@ This project implements a **Naïve Bayes-based spam detection model** with an **
 
 ## **Video Demo**  
 
-(https://www.youtube.com/watch?v=y08qhn8pes8)
+https://youtu.be/FfFg3h3NezA
+
 ---
 
 ## **Motivation and Purpose**  
