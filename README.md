@@ -1,6 +1,6 @@
 # **Interactive Spam Classifier**  
 
-**Interactive Spam Classifier** is a machine learning project that utilizes **Naïve Bayes classification** to detect whether a message is spam or not. The model is deployed using **Gradio**, allowing users to enter text and receive real-time classifications.
+**My interactive Spam Classifier** is a machine learning project that utilizes **Naïve Bayes classification** to detect whether a message is spam or not. The model is deployed using **Gradio**, allowing users to enter text and receive real-time classifications.
 
 ---
 
